@@ -104,4 +104,4 @@ Si hay problemas de red, la app cae automáticamente a datos de ejemplo.
 
 ## Repositorio
 
-> *(actualiza este enlace con tu repositorio real)*
+🔗 [https://github.com/sergioespinosae-ux/ClimaAppM7](https://github.com/sergioespinosae-ux/ClimaAppM7)
